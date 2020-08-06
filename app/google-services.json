@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387242151187",
+    "firebase_url": "https://ui-espresso-testing-bd46a.firebaseio.com",
+    "project_id": "ui-espresso-testing-bd46a",
+    "storage_bucket": "ui-espresso-testing-bd46a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387242151187:android:fbaaec0433bf0aa960dee6",
+        "android_client_info": {
+          "package_name": "com.example.testingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387242151187-64ihhq66r820cia275r2brta3hn3qtb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZpXbFr6nkoUBQwsfCui2hJyzvmg6_vO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387242151187-64ihhq66r820cia275r2brta3hn3qtb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
